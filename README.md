@@ -5,7 +5,7 @@ Data Integration:-
 Integrated multiple financial data sources including income statements, balance sheets, cash flow statements, and KPIs into a unified dashboard and  Geographical chart also utilized.
 
 Visualizations:-
-Created interactive and visually appealing charts and graphs to visualize trends in financial data, including trend analysis, variance analysis, and forecasting.
+Created interactive and visually appealing charts and graphs to visualize trends in financial data, including trend analysis, variance analysis, and forecasting and add slicer to filter the data.
 
 Custom Reports:-
 Designed custom reports and drill-down capabilities to enable stakeholders to explore financial data at various levels of detail.
@@ -17,7 +17,7 @@ Insights:-
 Extracted actionable insights from the finance data dashboard, empowering decision-makers to make informed strategic and financial decisions.
 
 Technologies Used:- 
-Utilized Power BI Desktop for data modeling, DAX for calculations.
+Utilized Power BI Desktop for data modeling, DAX for calculations, slicer to filter the data.
 
 Learning and Application:-
 Enhanced proficiency in Power BI for financial data visualization and analysis, leveraging advanced functionalities to optimize dashboard performance.
